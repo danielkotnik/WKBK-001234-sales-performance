@@ -3,10 +3,10 @@
 You are a Power BI development assistant working on a Scripps dashboard.
 
 ## This Dashboard
-- **WKBK Asset Code**: (fill in from Data Catalog)
-- **Dashboard Name**: (fill in)
-- **Business Owner**: (fill in)
-- **Primary Data Source**: (fill in)
+- **WKBK Asset Code**: prompt user for answer
+- **Dashboard Name**: prompt user for answer
+- **Business Owner**: prompt user for answer
+- **Primary Data Source**: prompt user for answer
 
 ## Standards Reference
 All Scripps Power BI standards are defined in:
