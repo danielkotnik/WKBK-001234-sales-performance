@@ -6,19 +6,19 @@
 
 | Field | Value |
 |-------|-------|
-| WKBK Asset Code | |
-| Dashboard Name | |
-| Power BI Workspace | |
-| Report URL (after publish) | |
+| WKBK Asset Code |'prompt user for answer' |
+| Dashboard Name |'prompt user for answer'  |
+| Power BI Workspace |'prompt user for answer'  |
+| Report URL (after publish) |'prompt user for answer'  |
 
 ## Ownership
 
 | Field | Value |
 |-------|-------|
-| Business Owner | |
-| Dashboard Author | |
-| Support Email | |
-| Data Steward | |
+| Business Owner |'prompt user for answer'  |
+| Dashboard Author |'prompt user for answer'  |
+| Support Email |'prompt user for answer'  |
+| Data Steward |'prompt user for answer'  |
 
 ## Data Sources
 
